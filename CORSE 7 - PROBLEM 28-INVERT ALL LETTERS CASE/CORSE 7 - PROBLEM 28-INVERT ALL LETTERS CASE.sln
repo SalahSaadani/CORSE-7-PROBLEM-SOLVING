@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CORSE 7 - PROBLEM 28-INVERT ALL LETTERS CASE", "CORSE 7 - PROBLEM 28-INVERT ALL LETTERS CASE\CORSE 7 - PROBLEM 28-INVERT ALL LETTERS CASE.vcxproj", "{957A7EA7-10BD-4983-AEF5-68BF34186A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Debug|x64.ActiveCfg = Debug|x64
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Debug|x64.Build.0 = Debug|x64
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Debug|x86.ActiveCfg = Debug|Win32
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Debug|x86.Build.0 = Debug|Win32
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Release|x64.ActiveCfg = Release|x64
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Release|x64.Build.0 = Release|x64
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Release|x86.ActiveCfg = Release|Win32
+		{957A7EA7-10BD-4983-AEF5-68BF34186A12}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2E1917-F13A-4DE9-964D-03A50A87AA21}
+	EndGlobalSection
+EndGlobal
