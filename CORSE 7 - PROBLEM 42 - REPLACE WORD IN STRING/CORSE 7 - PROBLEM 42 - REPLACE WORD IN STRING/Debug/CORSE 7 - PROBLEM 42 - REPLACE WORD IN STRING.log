@@ -1,0 +1,4 @@
+﻿  CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING.cpp
+D:\Visuel Studio Problems\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING.cpp(11,41): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Visuel Studio Problems\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING.cpp(15,39): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING.vcxproj -> D:\Visuel Studio Problems\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING\Debug\CORSE 7 - PROBLEM 42 - REPLACE WORD IN STRING.exe
